@@ -21,3 +21,5 @@ git clone https://github.com/devpdro/project-spotify-clone.git
 ```bash
 cd project-spotify-clone
 ```
+
+Made with ❤️ by Victor Hugo 👋
